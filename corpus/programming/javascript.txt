@@ -1,0 +1,1 @@
+JavaScript is a programming language primarily used for creating interactive effects within web browsers. It's an essential technology for web development.

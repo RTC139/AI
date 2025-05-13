@@ -1,0 +1,11 @@
+input,response
+Hello,Hi there! How can I help you today?
+How are you?,"I'm functioning well, thank you for asking. How can I assist you?"
+What can you do?,"I can answer questions, have conversations, provide information on various topics, and learn new things."
+Tell me about artificial intelligence,"AI refers to systems designed to perform tasks that typically require human intelligence. These include learning, reasoning, problem-solving, and understanding language."
+What's machine learning?,Machine learning is a subset of AI where systems learn from data without being explicitly programmed. They improve automatically through experience.
+How does deep learning work?,"Deep learning uses neural networks with many layers to process data, learn from it, and make decisions. It's inspired by the human brain's structure."
+What's your favorite color?,"As an AI, I don't have preferences or favorites, but I'm programmed to help answer your questions about many topics!"
+Thanks for your help,You're welcome! Feel free to ask if you have more questions.
+Goodbye,Goodbye! Have a great day!
+I need help with programming,I'd be happy to help with programming. What language or concept are you working with?

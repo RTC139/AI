@@ -1,0 +1,1 @@
+Deep learning is part of machine learning based on artificial neural networks. It attempts to mimic the human brain's ability to process data and create patterns for decision making.

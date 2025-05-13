@@ -1,0 +1,6 @@
+requests
+flask==2.0.1
+nltk==3.6.3
+numpy==2.2.5
+scikit-learn==1.0
+tensorflow>=2.0
